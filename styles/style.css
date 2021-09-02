@@ -78,3 +78,6 @@ nav .container .nav-link {
 footer{
     background-color:#7661F3;
 }
+footer .container .row .col a:hover{
+    color: #c3c0c0 !important;
+}
